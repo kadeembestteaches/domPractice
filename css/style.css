@@ -1,0 +1,6 @@
+section > div{
+    width:100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 0 2rem 1rem 0;
+}
